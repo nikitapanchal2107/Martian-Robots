@@ -75,3 +75,20 @@ dotnet test
 
 2.You will see output similar to:
 7 Passed, 0 Failed
+
+
+Commit History:
+1. Initialize .NET 8 console application for Martian Robots
+2. Implement initial Robot and World classes with basic movement logic
+3. Add scent tracking and off-grid detection to Robot and World
+4. Implement console input/output flow - Build Program.cs with interactive input for grid, robot start, and instructions
+5. Add validation for grid size, robot start position, and instruction characters
+6. Enforce max coordinate limit (50) and max instruction length (100 chars)
+7. Extract input validation into dedicated helper methods to simplify Program.cs
+8. Introduce InputValidator class - Move validation helpers into InputValidator class to keep Program.cs file clean and structured
+9. Add xUnit test project and initial test structure
+10. Add tests for Robot movement, turning, scent logic, and LOST behaviour
+11. Improve naming, simplify switch expressions, and clean up minor code smells
+13. Add README with instructions, architecture overview, and problem explanation, running instuction and commit History.
+14. Expand README to include validation rationale and xUnit testing strategy
+15. Could have added tests suite for InputValidator (grid, start position, instructions) but running out of time.
