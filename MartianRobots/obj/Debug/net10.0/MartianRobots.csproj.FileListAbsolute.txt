@@ -1,0 +1,14 @@
+C:\Project\MartianRobots\MartianRobots\bin\Debug\net10.0\MartianRobots.exe
+C:\Project\MartianRobots\MartianRobots\bin\Debug\net10.0\MartianRobots.deps.json
+C:\Project\MartianRobots\MartianRobots\bin\Debug\net10.0\MartianRobots.runtimeconfig.json
+C:\Project\MartianRobots\MartianRobots\bin\Debug\net10.0\MartianRobots.dll
+C:\Project\MartianRobots\MartianRobots\bin\Debug\net10.0\MartianRobots.pdb
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.AssemblyInfoInputs.cache
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.AssemblyInfo.cs
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.csproj.CoreCompileInputs.cache
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.dll
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\refint\MartianRobots.dll
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.pdb
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\MartianRobots.genruntimeconfig.cache
+C:\Project\MartianRobots\MartianRobots\obj\Debug\net10.0\ref\MartianRobots.dll
